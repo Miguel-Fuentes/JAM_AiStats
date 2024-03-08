@@ -1,0 +1,7 @@
+disjoint-set
+matplotlib
+networkx
+nose
+numpy
+pandas
+scipy

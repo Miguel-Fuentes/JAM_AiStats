@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: private-pgm
+Version: 0.0.1
+Summary: Graphical-model based estimation and inference for differential privacy.
+Home-page: git@github.com:ryan112358/private-pgm.git
+Author: Ryan McKenna
+Author-email: rmckenna21@gmail.com
+License: Apache License 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
